@@ -21684,6 +21684,15 @@ video {
   background-color: rgba(44, 122, 123, var(--bg-opacity));
 }
 
+.kartu {
+  border-radius: 0.25rem;
+  padding: 1rem;
+  border-width: 2px;
+  --border-opacity: 1;
+  border-color: #f7fafc;
+  border-color: rgba(247, 250, 252, var(--border-opacity));
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;

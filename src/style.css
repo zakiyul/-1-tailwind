@@ -17,3 +17,7 @@
 .btn-info:hover {
   @apply .bg-teal-700;
 }
+
+.kartu {
+  @apply .rounded .p-4 .border-2 .border-gray-100;
+}
